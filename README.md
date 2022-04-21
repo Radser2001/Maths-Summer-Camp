@@ -6,3 +6,5 @@
 </h1>
 <h3> <b> A Website created using Bootstrap <br> </b> <h3>
 <h4><a align="center" href="https://mathssummercamp-radser2001.netlify.app/"> Live Site </a></h4>
+
+![image](maths.png)
